@@ -1,4 +1,4 @@
-![logo](https://github.com/SwagatChauhan/swagatchauhan/blob/main/coding-wallpaper-ai-robot-algorithms-future-warfare-cyber-attack-concept-155190388.jpg)
+![logo](https://github.com/SwagatChauhan/swagatchauhan/blob/main/baner.jpg)
 <h1 align="center">Hi 👋, I'm Swagat Chauhan</h1>
 <h3 align="center">A passionate java fullstack developer from India</h3>
 <img align="right" alt="coder" width="500px" src="https://media2.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
